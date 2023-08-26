@@ -1,0 +1,16 @@
+[
+    {
+        "id": "43512",
+        "productName": "  Introduction to algorithms  ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41lw4AhdvML._SX376_BO1,204,203,200_.jpg",
+        "price": "19.99",
+        "description": "  This is an awesome algorithms book !!!  "
+    },
+    {
+        "id": "0.12167127547182721",
+        "productName": "Table",
+        "imageUrl": "https://wakefitdev.gumlet.io/img/study-tables/monet/02.jpg?w=1700",
+        "price": "56.43",
+        "description": "This a good quality table"
+    }
+]
