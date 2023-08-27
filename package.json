@@ -1,7 +1,7 @@
 {
-  "name": "first-node-program",
+  "name": "anupama_fashion_finds",
   "version": "1.0.0",
-  "description": "anupama_fashion_finds",
+  "description": "This is online shopping website",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
